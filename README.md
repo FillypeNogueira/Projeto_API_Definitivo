@@ -26,7 +26,7 @@ O projeto foi implementado utilizando sistema de Migrations, usando Entity Frame
   * AutoMapper: Biblioteca para mapeamento de objetos.
   * AutoMapper.Extensions.Microsoft.DependencyInjection: Extensão do AutoMapper para injeção de dependência no ASP.NET Core.
   * Microsoft.AspNetCore.OpenApi: Pacote para geração de documentação interativa da API usando o Swagger.
-  * Microsoft.EntityFrameworkCore e Microsoft.EntityFrameworkCore.Design**: Pacotes para acesso e gerenciamento de banco de dados com o Entity Framework Core.
+  * Microsoft.EntityFrameworkCore e Microsoft.EntityFrameworkCore.Design: Pacotes para acesso e gerenciamento de banco de dados com o Entity Framework Core.
   * Microsoft.VisualStudio.Web.CodeGeneration.Design: Pacote para geração de código usando o CLI do ASP.NET Core.
   * Npgsql.EntityFrameworkCore.PostgreSQL: Integração do Entity Framework Core com o PostgreSQL.
   * Swashbuckle.AspNetCore: Pacote para geração de documentação Swagger (OpenAPI) para a API ASP.NET Core.
