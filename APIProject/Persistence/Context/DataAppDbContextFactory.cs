@@ -11,7 +11,7 @@ namespace APIProject.Persistence.Context
         {
           
             var options = new DbContextOptionsBuilder<DataAppDbContext>();
-            options.UseNpgsql("User ID=postgres;Password=BGHptk99###;Host=192.168.1.17;Port=5432;Database=localdb;");
+            options.UseNpgsql("User ID=postgres;Password=;Host=;Port=5432;Database=;");
             return new DataAppDbContext(options.Options, null);
         }
     }
